@@ -1,3 +1,3 @@
-These are code for testing.\n
-Have not completed or there are some bug.\n
+These are code for testing.
+Have not completed or there are some bug.
 Don't use!!!
